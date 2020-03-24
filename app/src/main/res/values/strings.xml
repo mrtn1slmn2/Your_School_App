@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Your School App</string>
+    <string name="txtTitle">Smart Choice College</string>
+    <string name="btnSchoolDetails">View School Details</string>
+    <string name="txtAddessLine2">Tampa, Florida 34683</string>
+    <string name="txtPhoneNumber">"(800) 331-0022 "</string>
+    <string name="txtAddressLine1">9800 South Great Ave.</string>
+</resources>
